@@ -17,7 +17,7 @@ I am passionate about making AI models faster, lighter, and more efficient for r
 ### 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,linux,docker,git" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,java,linux,docker,git" />
   </a>
 </p>
 
