@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+SYBH;Optimizing+CV+Models+for+Edge;Deploying+YOLO+via+ONNX;Building+LLMWiki" alt="Typing SVG" />
   </a>
 </p>
-## Hi there, I'm SYBH 👋
+
+Hi there, I'm SYBH 👋
 
 **Computer Vision Researcher | Edge Computing Enthusiast**
 
