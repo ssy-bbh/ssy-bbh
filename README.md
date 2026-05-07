@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+SONG;Optimizing+CV+Models+for+Edge;Deploying+YOLO+via+ONNX;Building+LLMWiki" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+SYBH;Optimizing+CV+Models+for+Edge;Deploying+YOLO+via+ONNX;Building+LLMWiki" alt="Typing SVG" />
   </a>
 </p>
-# Hi there, I'm SONG 👋
+## Hi there, I'm SYBH 👋
 
 **Computer Vision Researcher | Edge Computing Enthusiast**
 
@@ -23,5 +23,5 @@ I am passionate about making AI models faster, lighter, and more efficient for r
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="SONG's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="SYBH's GitHub Stats" />
 </p>
