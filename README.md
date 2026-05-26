@@ -22,7 +22,3 @@ I am passionate about making AI models faster, lighter, and more efficient for r
   </a>
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="SYBH's GitHub Stats" />
-</p>
