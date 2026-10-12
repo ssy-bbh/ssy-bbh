@@ -47,9 +47,3 @@ I build **LLM-powered agent systems that work in production** — from multi-age
 - **Cloud & Ops**: Nginx, systemd, Cloudflare load balancing & failover, MinIO / R2 object storage
 - **Mobile / Edge**: Android (Kotlin + CameraX), TensorFlow Lite, ONNX Runtime
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssy-bbh&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssy-bbh&theme=transparent&hide_border=true" alt="streak" height="150"/>
-</p>
